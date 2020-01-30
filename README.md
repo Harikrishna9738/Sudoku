@@ -29,4 +29,4 @@ To make this project following Languages and Libraries have been used: ##Fronten
 P.S:The aesthetics of the page is at the most basic level. Some more work could be put in to beautify the UI. The project has been completed keeping the sole aim as working completion rather than aesthetically pleasing.
 
 
-![alt text](https://github.com/Harikrishna9738/Todo-List/blob/master/screenshots/Screenshot%20from%202020-01-30%2020-30-28.png)
+![alt text](https://github.com/Harikrishna9738/Sudoku/blob/master/screenshots/Screenshot%20from%202020-01-30%2020-50-00.png)
